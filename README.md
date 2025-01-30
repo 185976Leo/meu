@@ -1,4 +1,4 @@
-loadstring(game:HttpGet          if game.PlaceId == 2753915549 then
+loadstring(game:HttpGethttps://raw.githubusercontent.com/185976Leo/meu/refs/heads/main/README.md          if game.PlaceId == 2753915549 then
     World1 = true
 elseif game.PlaceId == 4442272183 then
     World2 = true
